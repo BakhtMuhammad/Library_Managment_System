@@ -1,0 +1,30 @@
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\bin\Debug\Library Management System.exe.config
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\bin\Debug\Library Management System.exe.manifest
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\bin\Debug\Library Management System.application
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\bin\Debug\Library Management System.exe
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\bin\Debug\Library Management System.pdb
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\LMS V1.3 Final Master.csprojAssemblyReference.cache
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.About.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.AddBooks.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.AddStudent.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.CompleteBookDetail.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.DashBoard.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.FinalReport.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.Help.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.IssueBooks.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.License_Agreement.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.ResetPassword.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.ReturnBook.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.SendCode.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.SignUp.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.View_Book.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library_Management_System.a.resources
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\LMS V1.3 Final Master.csproj.GenerateResource.cache
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\LMS V1.3 Final Master.csproj.CoreCompileInputs.cache
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library Management System.exe.manifest
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library Management System.application
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\LMS V1.3 Final Master.csproj.CopyComplete
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library Management System.exe
+D:\LMS V 1.2 FINAL MASTER COPY\Library Management System\obj\Debug\Library Management System.pdb
